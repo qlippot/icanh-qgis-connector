@@ -18,7 +18,7 @@ I developed a Python script for QGIS that acts as a live data bridge. It automat
 4. **Generates a flattened, spatial memory layer** in QGIS, concatenating all related dates, authors, library codes, and findings into a single, exportable row per site.
 
 
-![QGIS Attribute Table](QGIS-Atrribute-Table.png)
+![QGIS Attribute Table](QGIS-Attribute-Table.png)
 
 
 ## How to Use
