@@ -17,6 +17,10 @@ I developed a Python script for QGIS that acts as a live data bridge. It automat
 3. **Handles mixed relational keys** (matching Integer IDs to UUIDs dynamically).
 4. **Generates a flattened, spatial memory layer** in QGIS, concatenating all related dates, authors, library codes, and findings into a single, exportable row per site.
 
+
+![QGIS Attribute Table](QGIS-Atrribute-Table.png)
+
+
 ## How to Use
 1. Open QGIS and open the Python Console.
 2. Open the Python Editor (the notepad icon).
