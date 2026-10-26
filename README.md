@@ -20,6 +20,8 @@ I developed a Python script for QGIS that acts as a live data bridge. It automat
 
 ![QGIS Attribute Table](QGIS-Attribute-Table.png)
 
+![QGIS Attribute Table](QGIS-Points.png)
+
 
 ## How to Use
 1. Open QGIS and open the Python Console.
